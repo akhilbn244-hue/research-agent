@@ -1,0 +1,10 @@
+# NEVER upload your secret key
+.env
+
+# Installed toolboxes - anyone can recreate these with setup.bat
+.venv/
+__pycache__/
+*.pyc
+
+# Reports the agent wrote (your own research, not part of the code)
+outputs/
